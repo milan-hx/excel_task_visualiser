@@ -1,6 +1,6 @@
 {
-    "input_filepath":"./input.xlsx",
-    "output_filepath":"./output.xlsx",
+    "input_filepath":"./data/example_input.xlsx",
+    "output_filepath":"./data/example_output.xlsx",
     "enclosing_date_range":{
         "start":"1/4/2024",
         "end":"7/17/2024"
